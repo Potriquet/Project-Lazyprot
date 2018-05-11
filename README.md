@@ -1,12 +1,12 @@
 # Project-Lazyprot
 ## A comprehensive software for proteomics and bioinformatic analysis
 
------------------------------------------------------------------------------
--                         Project : LazyProt                                -
--       This software aim to provide a GUI and easy interface               -
--   for Lazy processing of complexe data input in the proteomic field       - 
--                                                                           -
------------------------------------------------------------------------------   
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         Project : LazyProt                                +
++       This software aim to provide a GUI and easy interface               +
++   for Lazy processing of complexe data input in the proteomic field       + 
++                                                                           +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 #   ## License notices ##                                                   # 
 #                                                                           #
 #   Copyright (C) 2018 Jeremy C Potriquet                                   #
