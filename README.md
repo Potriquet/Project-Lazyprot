@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------                               
 
-This software aim to provide a GUI and easy interface               
+This software aim to provide an intuitive GUI               
 for Lazy processing of complexe data input in the proteomic field       
                                                                            
 -----------------------------------------------------------------------------
@@ -39,13 +39,15 @@ tested and also working on : Ubuntu 12.04
 ## How to use Lazyprot ##
 
 No Installation is necessary to use Lazyprot as all dependencies and
-scripts are embedded in a stand-alone
+scripts are embedded in a stand-alone.
+In most cases this program should also work directly from a hard drive or USB
+for portability.
 
 Just download the Lazyprot ".zip" and extract it in your choosen folder
 in the folder "Lazyprot_V1_0_portable" you should see a folder "dist"
 and the "Lazyprot_exe" file
 
-# Launch by double clicking #
+### Launch by double clicking ###
 If not already set when in your folder browser click on the top screen tab
 called "Edit" then click on "Preferences". go in the "Behaviour" tab and
 in "Executable Text Files" select "Ask each time"
@@ -53,10 +55,11 @@ in "Executable Text Files" select "Ask each time"
 Double click on the file "Lazyprot_exe" to execute the Lazyprot program
 and select "Run" on the popup window.
 
-# Launch by terminal #
+### Launch by terminal ###
 In your terminal, change of directory to Lazyprot_V1_0_portable/
 Execute the Lazyprot program by using:
 ./Lazyprot_exe.sh
-
+or directly use the executable:
+/Lazyprot_V1_0_portable/dist/LazyProt_mainGUI_portable/LazyProt_mainGUI_portable
 
 Enjoy
