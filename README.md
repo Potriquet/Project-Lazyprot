@@ -8,6 +8,12 @@ This software aim to provide an intuitive GUI for Lazy processing of complexe da
 ## This software and all the tools are totally FREE ! However if you wish to help the release of new tools and support the development of the project, make sure to donate whatever you think reasonable on our [Patreon Pages](https://www.patreon.com/Project_Lazyprot) ##
 
 Currently include:
+- A proportionated Venn diagram generator tool
+- A mzML spectra extractor and de-novo sequencing tool
+- A FASTA database file combiner tool
+- A FASTA database reverse/shuffle/edit tool
+- A liquid chromatography retention time transposition tool
+- A SWATH/DIA in-silico transition library generator and retention time prediction tool
 
 ### [Link to Download Lazyprot and test dataset](https://github.com/Potriquet/Project-Lazyprot/releases/) ###
 
@@ -32,8 +38,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Supported Operating systems ##
 # Windows Version #
-Developped on Windows 10
-Tested and also working on : Windows 7
+Developped on Windows 7
+Tested and also working on : Windows 10
 # MacOS Version #
 Developped on macOS High Sierra 10.13.4
 Should work on macOS 10.13 onward
@@ -44,28 +50,27 @@ tested and also working on : Ubuntu 12.04
 
 ## How to use Lazyprot ##
 
-No Installation is necessary to use Lazyprot as all dependencies and
-scripts are embedded in a stand-alone.
-In most cases this program should also work directly from a hard drive or USB
-for portability.
+No Installation is necessary to use Lazyprot as all dependencies and scripts are embedded in a stand-alone. :wink:
+In most cases this program should also work directly from a hard drive or USB for portability.
 
-Just download the Lazyprot ".zip" and extract it in your choosen folder
-in the folder "Lazyprot_V1_0_portable" you should see a folder "dist"
-and the "Lazyprot_exe" file
+Just download the Lazyprot ".zip" and extract it
 
 ### Launch by double clicking ###
-If not already set when in your folder browser click on the top screen tab
-called "Edit" then click on "Preferences". go in the "Behaviour" tab and
-in "Executable Text Files" select "Ask each time"
+#### For macOS and Windows ####
+Go in the folder "LazyProt_mainGUI_portable"
+There you should find  a file called "LazyProt_mainGUI_portable.exe", just double click it.
+For ease of use you can right clic and create a shortcut to the executable to place anywhere
+for macOS right clic and use "Alias"
+#### For Ubuntu ####
+Go in the folder "LazyProt_mainGUI_portable"
+There you should find  a file called "LazyProt_mainGUI_portable", just double click it.
 
-Double click on the file "Lazyprot_exe" to execute the Lazyprot program
-and select "Run" on the popup window.
+OR double click on the file "Lazyprot_executable" to execute the Lazyprot program and select "Run" on the popup window.
 
 ### Launch by terminal ###
-In your terminal, change of directory to Lazyprot_V1_0_portable/
+In your terminal, change of directory to LazyProt_mainGUI_portable/
 Execute the Lazyprot program by using:
-./Lazyprot_exe.sh
-or directly use the executable:
-/Lazyprot_V1_0_portable/dist/LazyProt_mainGUI_portable/LazyProt_mainGUI_portable
-
+```
+./LazyProt_mainGUI_portable
+```
 Enjoy
