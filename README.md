@@ -9,7 +9,7 @@ This software aim to provide an intuitive GUI for Lazy processing of complexe da
 
 Currently include:
 
-[Windows version](../../Lazyprot_V1_Windows.zip)
+[Windows version](../../../Lazyprot_V1_Windows.zip)
 
                                                                            
 -----------------------------------------------------------------------------
