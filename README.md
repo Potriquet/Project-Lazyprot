@@ -3,13 +3,13 @@
 
 -----------------------------------------------------------------------------                               
 
-This software aim to provide an intuitive GUI               
-for Lazy processing of complexe data input in the proteomic field
+This software aim to provide an intuitive GUI for Lazy processing of complexe data input in the proteomic field
 
 ## This software and all the tools are totally FREE ! However if you wish to help the release of new tools and support the development of the project, make sure to donate whatever you think reasonable on our [Patreon Pages](https://www.patreon.com/Project_Lazyprot) ##
 
 Currently include:
 
+[Windows version](releases/Lazyprot_V1_Windows.zip)
 
                                                                            
 -----------------------------------------------------------------------------
