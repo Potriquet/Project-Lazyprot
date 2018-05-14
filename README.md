@@ -17,6 +17,8 @@ Currently include:
 
 ### [Link to Download Lazyprot and test dataset](https://github.com/Potriquet/Project-Lazyprot/releases/) ###
 
+#### If you have any trouble using the software, please make sure to read the User_Guide. ####
+
                                                                            
 -----------------------------------------------------------------------------
 #### License notices
