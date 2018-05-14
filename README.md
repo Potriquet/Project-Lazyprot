@@ -9,7 +9,7 @@ This software aim to provide an intuitive GUI for Lazy processing of complexe da
 
 Currently include:
 
-[Windows version](https://github.com/Potriquet/Project-Lazyprot/releases/Lazyprot_V1_Windows.zip)
+[Windows version](../../../releases)
 
                                                                            
 -----------------------------------------------------------------------------
