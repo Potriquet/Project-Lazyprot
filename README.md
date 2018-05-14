@@ -4,7 +4,15 @@
 -----------------------------------------------------------------------------                               
 
 This software aim to provide an intuitive GUI               
-for Lazy processing of complexe data input in the proteomic field       
+for Lazy processing of complexe data input in the proteomic field
+
+This software and all the tools are totally FREE !
+However if you wish to see more and support the development of the project
+Make sure to donate whatever you think it is deem on our [Patreon Pages](https://www.patreon.com/Project_Lazyprot)
+
+Currently include:
+
+
                                                                            
 -----------------------------------------------------------------------------
 #### License notices
