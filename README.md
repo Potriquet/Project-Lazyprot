@@ -63,6 +63,20 @@ Go in the folder "LazyProt_mainGUI_portable"
 There you should find  a file called "LazyProt_mainGUI_portable.exe", just double click it.
 For ease of use you can right clic and create a shortcut to the executable to place anywhere
 for macOS right clic and use "Alias"
+##### WARNING !! #####
+For macOS users, depending on your security options you may not see the "LazyProt_mainGUI_portable" file as executable but as a text file or getting warning about the software being a third part app and not being able to run it. In that case you need to make the file executable following the procedure below:
+1) Open your Terminal.app (in Applications > Utilities)
+2) Type and then do step 3 without closing the Terminal windows or pressing enter
+```
+chmod +x 
+```
+3) Drag the "LazyProt_mainGUI_portable" file in the terminal Window.
+You should now see something like "chmod +x PATH/TO/THE/FILE/LazyProt_mainGUI_portable".
+Press enter
+4) Right clic the LazyProt_mainGUI_portable file and select "Open" then select "Open to the next warning window"
+You might see some warnings about virtualenvwrapper, please disregard them the software should open just fine after few seconds.
+
+
 #### For Ubuntu ####
 Go in the folder "LazyProt_mainGUI_portable"
 There you should find  a file called "LazyProt_mainGUI_portable", just double click it.
